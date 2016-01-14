@@ -40,4 +40,4 @@ Anforderung für die Dörfer der Clanmitglieder
  * Level 35 Königin
  * Level 5 Frost
  * Level 4 Eil
- * Level 9 Mauern
+ * Level 10 Mauern :-)
